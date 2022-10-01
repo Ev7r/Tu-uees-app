@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mapbox-rn",
+    "slug": "mapbox-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
